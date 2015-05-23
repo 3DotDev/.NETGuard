@@ -5,7 +5,9 @@ NETLocker
 ![enter image description here](http://i.imgur.com/qCg3Xox.png)
 
 
-NETLocker is a modded version of [ConfuserEX](https://github.com/yck1509/ConfuserEx) by Yck.
+NETLocker is a modded version of [ConfuserEX](https://github.com/yck1509/ConfuserEx) by Yck, which aim to improve it.
+
+Please have a look at [NETLocker's wiki page](https://github.com/XenocodeRCE/NETLocker/wiki) ! 
 
 ----------
 
