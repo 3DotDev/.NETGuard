@@ -24,6 +24,7 @@ Here's a pseudo list of the things which are currently working on NETLocker :
   - Sequential
   - Debug
  - Constant Disconstructor ![enter image description here](http://www.thinkinbytes.com/images/icon_new.gif)
+ - Add fake attributes to puzzle De4Dot ![enter image description here](http://www.thinkinbytes.com/images/icon_new.gif)
  - Protection against debuggers/profilers ![enter image description here](http://www.thinkinbytes.com/images/icon_improved.gif)
  - Invalid Metadata protection ![enter image description here](http://www.thinkinbytes.com/images/icon_improved.gif) ![enter image description here](http://www.thinkinbytes.com/images/icon_new.gif)
  - Protection against memory dumping
