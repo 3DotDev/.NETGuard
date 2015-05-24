@@ -1,5 +1,4 @@
 .NETGuard
-
 ===================
 
 
@@ -8,7 +7,7 @@
 
 .NETGuard is a modded version of [ConfuserEX](https://github.com/yck1509/ConfuserEx) by Yck, which aim to improve it.
 
-Please have a look at [NETLocker's wiki page](https://github.com/XenocodeRCE/.NETGuard/wiki) ! 
+Please have a look at [.NET Guard's wiki page](https://github.com/XenocodeRCE/.NETGuard/wiki) ! 
 
 ----------
 
@@ -60,6 +59,6 @@ Consider this project as an Alpha-alpha-beta version.
 
 > - I'm doing what I do during my free time
 > - I'm not guaranteeing any support or whatever
-> - If you use NETLocker for your protection, don't claim it's your, or I may lost my faith in humanity, again ...
+> - If you use .NETGuard for your protection, don't claim it's your, or I may lost my faith in humanity, again ...
 
 
