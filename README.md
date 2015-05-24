@@ -1,19 +1,20 @@
-NETLocker
+.NETGuard
+
 ===================
 
 
 ![enter image description here](http://i.imgur.com/qCg3Xox.png)
 
 
-NETLocker is a modded version of [ConfuserEX](https://github.com/yck1509/ConfuserEx) by Yck, which aim to improve it.
+.NETGuard is a modded version of [ConfuserEX](https://github.com/yck1509/ConfuserEx) by Yck, which aim to improve it.
 
-Please have a look at [NETLocker's wiki page](https://github.com/XenocodeRCE/NETLocker/wiki) ! 
+Please have a look at [NETLocker's wiki page](https://github.com/XenocodeRCE/.NETGuard/wiki) ! 
 
 ----------
 
 Features
 -------------
-Here's a pseudo list of the things which are currently working on NETLocker :
+Here's a pseudo list of the things which are currently working on .NETGuard  :
 
  - Supports .NET Framework 3.0/3.5/4.0/4.5
  - Symbol renaming (Support WPF/BAML)
@@ -51,7 +52,7 @@ Here's a pseudo list of the things which are currently working on NETLocker :
 Warning
 -------------------
 
-**NETLocker** might make the output un-runnable / unstable or may fail on obfuscating your application.
+**.NETGuard** might make the output un-runnable / unstable or may fail on obfuscating your application.
 Consider this project as an Alpha-alpha-beta version.
 
 
