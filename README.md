@@ -2,7 +2,7 @@
 ===================
 
 
-![enter image description here](http://i.imgur.com/qCg3Xox.png)
+![enter image description here](http://u.cubeupload.com/XenocodeRCE/netguardlogo.png)
 
 
 .NETGuard is a modded version of [ConfuserEX](https://github.com/yck1509/ConfuserEx) by Yck, which aim to improve it.
